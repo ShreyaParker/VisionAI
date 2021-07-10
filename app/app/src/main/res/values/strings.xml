@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">demovoice</string>
+    <string name="Record">Record</string>
+    <string name="camera">Record</string>
+</resources>

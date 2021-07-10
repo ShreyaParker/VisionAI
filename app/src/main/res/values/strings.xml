@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myapplication4</string>
+    <string name="Record">Record</string>
+    <string name="camera">Record</string>
+    <string name="lottieAnimation">lottieAnimation</string>
+
+</resources>

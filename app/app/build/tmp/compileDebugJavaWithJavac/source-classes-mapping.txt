@@ -1,0 +1,9 @@
+com/example/demovoice/Function.java
+ com.example.demovoice.Function
+com/example/demovoice/BuildConfig.java
+ com.example.demovoice.BuildConfig
+com/example/demovoice/MainActivity.java
+ com.example.demovoice.MainActivity
+ com.example.demovoice.MainActivity$1
+ com.example.demovoice.MainActivity$2
+ com.example.demovoice.MainActivity$3
